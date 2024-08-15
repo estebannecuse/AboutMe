@@ -27,6 +27,8 @@ Que tecnologias manejo?
 
 Proyectos
 Mi proyecto mas relevante es un E-commerce, el mismo cuenta con la gestion de usuarios, productos, categorias y ordenes. 
+https://github.com/estebannecuse/ecommerceEsteban
+
 Usuarios
   CRUD
   Autenticacion de ususarios por roles con JWT

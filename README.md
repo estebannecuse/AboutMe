@@ -1,6 +1,7 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hola!  👋</h1>
 
 ###
+<img src="https://res.cloudinary.com/dvammbscm/image/upload/v1723834378/Foto_Personal_kadh8z.jpg" height="130" width="130">
 
 <p align="left">Me llamo Esteban Necuse, soy de Montevideo, Uruguay</p>
 
@@ -12,7 +13,7 @@
 
 ###
 
-<p align="left">✨📚 Actualmente estoy estudiando Java y Spring Boot <br>🎯 Objetivo: Ser fluente en las tecnolofias estudiadas para poder generar soluciones y agregar valor 🎲 Fun fact: ...</p>
+<p align="left">✨📚 Actualmente estoy estudiando Java y Spring Boot <br>🎯 Objetivo: Ser fluente en las tecnolofias estudiadas para poder generar soluciones y agregar valor</p>
 
 ###
 

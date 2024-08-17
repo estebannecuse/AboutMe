@@ -20,7 +20,7 @@
 <h2 align="left">Proyectos</h2>
 
 <p>
-  Mi proyecto mas relevante es un E-commerce, el mismo cuenta con la gestion de usuarios, productos, categorias y ordenes. Logrando la persistencia de datos con PostgreSQL y el deploy mediante Render.  
+  Mi proyecto mas relevante es un E-commerce, el mismo cuenta con la gestión de usuarios, productos, categorias y ordenes. Logrando la persistencia de datos con PostgreSQL y el deploy mediante Render.  
 https://github.com/estebannecuse/ecommerceEsteban
 </p>
 </br>

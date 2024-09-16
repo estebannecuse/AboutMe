@@ -5,6 +5,8 @@
 
 <p align="left">Me llamo Esteban Necuse, soy de Montevideo, Uruguay</p>
 
+</br>
+<p>LinkedIn: www.linkedin.com/in/esteban-necuse-giró-7a1459107</p>
 ###
 
 <h2 align="left">About me</h2>

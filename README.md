@@ -9,7 +9,7 @@
 
 <h2 align="left">About me</h2>
 
-<p>Programador FullStack orientado a Backend desde agosto de 2024, previamente me desarrollaba en el mundo del comercio exterior.</p>
+<p>Programador FullStack orientado a Backend desde agosto de 2024, previamente me desarrollaba en el mundo del comercio exterior en grandes empresas multi-nacionales como BASF y Trafigura..</p>
 
 ###
 

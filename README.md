@@ -17,8 +17,6 @@
 
 <p align="left">✨📚 Actualmente estoy estudiando Java y Spring Boot <br>🎯 Objetivo: Ser fluente en las tecnologias estudiadas para poder generar soluciones y agregar valor</p>
 
-###
-
 <h2 align="left">Proyectos</h2>
 
 <p>

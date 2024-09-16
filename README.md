@@ -21,7 +21,7 @@
 
 <p>
   Proyecto final BootCamp Henry / Aplicacion para gestionar torneos 
-  https://github.com/estebannecuse/PadelArena-Back
+  https://github.com/Agusdor96/PadelArena-Back
   https://padelarena.vercel.app/
 
   Proyecto Intermedio BootCamp Henry / REST API

@@ -13,7 +13,6 @@
 
 <p>Programador FullStack orientado a Backend desde agosto de 2024, previamente me desarrollaba en el mundo del comercio exterior en grandes empresas multi-nacionales como BASF y Trafigura..</p>
 
-###
 
 <p align="left">✨📚 Actualmente estoy estudiando Java y Spring Boot <br>🎯 Objetivo: Ser fluente en las tecnologias estudiadas para poder generar soluciones y agregar valor</p>
 

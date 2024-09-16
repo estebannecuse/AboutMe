@@ -20,34 +20,17 @@
 <h2 align="left">Proyectos</h2>
 
 <p>
-  Proyecto final BootCamp Henry : 
+  Proyecto final BootCamp Henry / Aplicacion para gestionar torneos 
   https://github.com/estebannecuse/PadelArena-Back
   https://padelarena.vercel.app/
 
-  Proyecto Intermedio BootCamp Henry
+  Proyecto Intermedio BootCamp Henry / REST API
   https://github.com/estebannecuse/ecommerceEsteban
 </p>
+
 </br>
 
-<p>
-CRUD de Usuarios y autenticacion de los mismos con JWT.
-</p>
 </br>
-
-<p>
-  CRUD de Products (relacionado con su categoria )
-</p>
-</br>
-
-<p>
-  CRUD de Categorias
-</p>
-</br>
-  <p>
-    Ordenes: 
-  Crear ordenes, relacion con productos, usuarios, detalle de orden (cantidad y precio por articulo asi como total de orden)
-  </p>
-  </br>
 
 ###
 
